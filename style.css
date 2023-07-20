@@ -2,6 +2,11 @@ html {
     width: 100%;
     font-size: 16px;
     position: relative;
+}
+
+body{
+    position: relative;
+    right: .425rem;
     overflow-x: hidden;
 }
 
